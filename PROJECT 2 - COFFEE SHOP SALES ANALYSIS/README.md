@@ -2,16 +2,16 @@
 
 ## Overview
 
-This project is a two-page retail analytics dashboard built to evaluate the sales and operational performance of a three-location coffee shop chain across January to June 2023. Using 149,116 individual transaction records, the analysis identifies revenue drivers by product, location, time of day, and day of week — giving store managers and regional leads the information they need to make better decisions about staffing, stock, and growth.
+This project is a two-page retail analytics dashboard built to evaluate the sales and operational performance of a three-location coffee shop chain across January to June 2023. Using 149,116 individual transaction records, the analysis identifies revenue drivers by product, location, time of day, and day of week, giving store managers and regional leads the information they need to make better decisions about staffing, stock, and growth.
 
 ---
 
 ## Business Problem
 
-Managing multiple retail locations across distinct urban areas creates real operational challenges — from staffing morning rushes to stocking the right products at the right volumes. This dashboard was built to answer three core questions:
+Managing multiple retail locations across distinct urban areas creates real operational challenges; from staffing morning rushes to stocking the right products at the right volumes. This dashboard was built to answer three core questions:
 
 1. Which store location is generating the most revenue, and where should growth efforts be focused?
-2. When are customers buying — by time of day and day of week — and how can staffing be aligned to match demand?
+2. When are customers buying, by time of day and day of week, and how can staffing be aligned to match demand?
 3. Which product categories and specific products are driving the most revenue, and what does that mean for menu and supply chain decisions?
 
 ---
