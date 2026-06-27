@@ -39,7 +39,7 @@ Managing multiple retail locations across distinct urban areas creates real oper
 
 <img width="757" height="432" alt="dashboard_preview" src="https://github.com/user-attachments/assets/e76cc84e-d711-4da2-a6dc-6e60527131bd" />
 
-> Please refer to `coffee_shop_dashboard.pdf` in this repository for the full two-page dashboard layout.
+> Please refer to `Coffee Shop Quarterly Performance.pdf` in this repository for the full two-page dashboard layout.
 
 ---
 
