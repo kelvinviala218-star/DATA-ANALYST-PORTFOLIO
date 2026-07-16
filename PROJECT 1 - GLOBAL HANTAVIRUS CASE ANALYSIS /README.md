@@ -3,7 +3,7 @@
 ### Overview
 This project presents an interactive public health intelligence dashboard built to analyze global Hantavirus outbreak trends, transmission dynamics, and clinical severity metrics. Tracking 2,000 active cases across 10 countries between January 2025 and May 2026, the analysis translates complex zoonotic and epidemiological data into high-impact visual narratives. The dashboard provides health agencies, clinical researchers, and environmental management teams with actionable insights to allocate medical resources, optimize localized containment strategies, and mitigate cross-border viral transmission.
 
-### Business Problem
+### Problem
 Epidemiological anomalies and complex viral mutations make tracking infectious diseases exceptionally challenging for international health bodies. Without integrated, localized data, public health resource distribution is frequently reactive rather than preventative. This dashboard was built to support critical, data-backed interventions, specifically answering:
 1. Which regional hotspots exhibit significantly higher Case Fatality Rates (CFR) requiring targeted deployment of therapeutics and critical care resources?
 2. Which virus strains and specific environmental exposure sources represent the most severe vectors of community transmission?
